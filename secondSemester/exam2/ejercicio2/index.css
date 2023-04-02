@@ -1,0 +1,10 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .divCreado {
+    margin: 2%;
+    width: 20vw;
+    height: 20vh;
+    background-color: rgb(255, 94, 0);
+  }

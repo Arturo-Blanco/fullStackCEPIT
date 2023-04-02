@@ -1,0 +1,10 @@
+.ocultar {
+    display: none;
+}
+.botones {
+    display: flex;
+    justify-content: space-between;
+}
+.divOculto {
+    text-align: center;
+}

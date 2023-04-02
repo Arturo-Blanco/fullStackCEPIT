@@ -1,0 +1,47 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.encabezado {
+    width: 100vw;
+    height: 20vh;
+    background-color: rgb(44, 44, 175);
+}
+.cuerpo1 {
+    margin-top: 1%;
+    width: 36vw;
+    height: 80vh;
+    background-color: red;
+    
+}
+.cuerpo2 {
+    margin-top: 1%;
+    margin-left: 1.5%;
+    width: 60vw;
+    height: 80vh;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.div1{
+width: 60vw;
+height: 25vh;
+background-color: aqua;
+} 
+.div2 {
+    width: 60vw;
+    height: 25vh;
+    background-color: yellow;
+}
+.div3 {
+    width: 29vw;
+    height: 25vh ;
+    background-color: brown;
+}
+.div4{
+    width: 29vw;
+    height: 25vh ;
+    background-color: aqua;
+    margin-left: 3% ;
+}

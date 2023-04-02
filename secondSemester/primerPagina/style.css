@@ -1,0 +1,59 @@
+body {
+  background-image: url(https://images.unsplash.com/photo-1534796636912-3b95b3ab5986?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y2llbG8lMjBlc3RyZWxsYWRvfGVufDB8fDB8fA%3D%3D&w=1000&q=80);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1 {
+  color: rgb(18, 107, 241);
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 60px;
+  text-align: center;
+  text-transform: uppercase;
+}
+p {
+  color: rgb(197, 215, 226);
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 20px;
+}
+.interesante {
+  font-size: 30px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: darkturquoise;
+}
+.img {
+  text-align: center;
+  position: static;
+}
+img {
+  max-width: 500px;
+  max-height: 500px;
+}
+#ojoGato {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 40px;
+  color: floralwhite;
+  text-align: center;
+}
+#huracanSa {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 40px;
+  color: tomato;
+  text-align: center;
+}
+#pilares {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 40px;
+  color: chartreuse;
+  text-align: center;
+}
+.pColor {
+  color: rgba(233, 7, 7, 0.466);
+  background-color: rgba(255, 255, 255, 0.699);
+  font-style: italic;
+}
+ul {
+  list-style: none;
+  font-size: 20px;
+}
