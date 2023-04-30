@@ -1,0 +1,13 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+header, footer {
+  background-color: cornflowerblue;
+  padding: 15px;
+  text-align: center;
+}
+main {
+  flex:1;
+  padding: 20px;
+}

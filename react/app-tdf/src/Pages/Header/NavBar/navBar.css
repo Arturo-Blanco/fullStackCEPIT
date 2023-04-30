@@ -1,0 +1,21 @@
+.navBar {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 1rem;
+}
+.navBar ul {
+    display: flex;
+    list-style: none;
+    font-size: 1.5rem;
+}
+.navBar li {
+    margin-right: 2rem;
+}
+.navBar a {
+    text-decoration: none;
+    
+}
+.navBar a:hover {
+    text-decoration: underline;
+}
