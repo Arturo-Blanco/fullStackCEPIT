@@ -1,0 +1,17 @@
+.navBar ul{
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+}
+.navBar a {
+    text-decoration: none;
+    font-size: 1rem;
+    color: black;
+    text-transform: uppercase;
+    transition: .5s ease;
+}
+.navBar a:hover {
+    color: ghostwhite;
+    font-size: 1.2rem;
+    text-shadow: black 3px 3px 3px;
+}
